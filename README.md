@@ -1,4 +1,4 @@
-# LinuxLab — Linux Fundamentals Through Cloud & DevOps
+# LinuxLab — Linux Fundamentals Through Cloud & DevOps https://linuxlearny.netlify.app/
 
 A split-screen Linux learning platform: a simulated Ubuntu terminal on the
 left, guided theory/hints on the right. Everything runs client-side in the
