@@ -204,7 +204,7 @@ CPU-light. Modules covering real exploitation, kernel work, forensics, or
 production cloud infrastructure would need actual sandboxed VMs/containers
 or real cloud credentials — a different, heavier architecture than this
 one.
-
+live link https://linuxlearny.netlify.app/
 ## Project layout
 
 ```
